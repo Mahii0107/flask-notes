@@ -1,0 +1,6 @@
+
+env
+__pycache__/
+*.pyc
+instance/notes.db
+.DS_Store
