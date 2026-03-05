@@ -96,14 +96,8 @@ Database is created automatically
 
 📌 Future Enhancements
 Search functionality
-
 Password reset
-
 User profile page
-
 PostgreSQL integration
-
 REST API version
 
-👩‍💻 Author
-Mahi Pendkalkar
