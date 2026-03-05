@@ -43,6 +43,7 @@ A full-stack Flask Notes application with authentication, categories, tags, and 
 
 ## 📁 Project Structure
 
+```
 Flask_Notes_app/
 notes-app/
 ├── app.py 
@@ -64,6 +65,7 @@ notes-app/
 ├── requirements.txt
 └── README.md
 
+```
 
 ---
 
