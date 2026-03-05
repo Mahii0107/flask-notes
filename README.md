@@ -5,7 +5,7 @@ This project is suitable for beginners learning **Flask, SQLAlchemy, and authent
 
 ---
 
-🔗 Live Demo: https://flask-notes-lmlw.onrender.com
+🔗 **Live Demo**: https://flask-notes-lmlw.onrender.com
 
 A full-stack Flask Notes application with authentication, categories, tags, and pin functionality.
 
@@ -72,39 +72,46 @@ notes-app/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
+```
 git clone https://github.com/Mahii0107/flask-notes.git
 cd flask-notes
+```
 
 2️⃣ Create a Virtual Environment
+```
 python -m venv venv
-venv\Scripts\activate   
+venv\Scripts\activate
+```
 
 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
+```
 
 4️⃣ Run the Application
 python app.py
 The app will run at:
 http://127.0.0.1:5000/
 
-🌍 Deployment
-Can be deployed on Render / Railway
+## 🌍 Deployment
 
-Uses SQLite database
+The application can be easily deployed on cloud platforms.
 
-Database is created automatically
+Supported platforms:
 
-.db file is not pushed to GitHub
+- 🚀 Render
+- 🚂 Railway
+
+Make sure the following files exist before deployment:
+
+- `requirements.txt`
+- `app.py`
 
 📌 Future Enhancements
 
-Search functionality
-
-Password reset
-
-User profile page
-
-PostgreSQL integration
-
-REST API version
+- 🔍 Search functionality  
+- 🔑 Password reset system  
+- 👤 User profile page  
+- 🐘 PostgreSQL database integration  
+- 🌐 REST API version
 
