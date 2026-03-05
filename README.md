@@ -5,7 +5,7 @@ This project is suitable for beginners learning **Flask, SQLAlchemy, and authent
 
 ---
 
-🔗 **Live Demo**: https://flask-notes-lmlw.onrender.com
+🔗 **Live Demo:** https://flask-notes-lmlw.onrender.com
 
 A full-stack Flask Notes application with authentication, categories, tags, and pin functionality.
 
@@ -89,7 +89,10 @@ pip install -r requirements.txt
 ```
 
 4️⃣ Run the Application
+```
 python app.py
+```
+
 The app will run at:
 http://127.0.0.1:5000/
 
