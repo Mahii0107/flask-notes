@@ -95,9 +95,14 @@ Database is created automatically
 .db file is not pushed to GitHub
 
 📌 Future Enhancements
+
 Search functionality
+
 Password reset
+
 User profile page
+
 PostgreSQL integration
+
 REST API version
 
